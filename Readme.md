@@ -1,3 +1,3 @@
-<h1>Proyecto final juego del numero Secreto</h1>
+<h1>Tarea de github alura</h1>
 
-- Estado del proyecto: Finalizado.
+- Estado del proyecto: En curso.
